@@ -1,0 +1,3 @@
+[submodule "witch-guideline"]
+	path = witch-guideline
+	url = https://github.com/witch-series/witch-guideline.git
